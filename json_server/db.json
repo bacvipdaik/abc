@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "name": "JS",
+      "description": "là ngôn ngữ lập trình dùng để xây dựng và cấu trúc lại các thành phần có trong Website.",
+      "id": 1
+    },
+    {
+      "name": "css",
+      "description": "CSS (Cascading Style Sheets) là một ngôn ngữ lập trình được sử dụng để định dạng và trang trí cho các tài liệu HTML và XML. CSS cho phép các nhà phát triển web tạo ra các trang web có giao diện đẹp mắt và dễ dàng quản lý bằng cách tách riêng phần hiển thị của trang web với nội dung của trang web.",
+      "id": 2
+    }
+  ]
+}
